@@ -1,0 +1,12 @@
+[
+    {
+        "refreshToken": "your_opai_refresh_token_1",
+        "registerPayload": "your_register_payload_1",
+        "uptimePayload": "your_uptime_payload_1"
+    },
+    {
+        "refreshToken": "your_opai_refresh_token_2",
+        "registerPayload": "your_register_payload_2",
+        "uptimePayload": "your_uptime_payload_2"
+    }
+]
